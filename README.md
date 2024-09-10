@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Zihang Wang. I'm currently a third-year Ph.D. student in Biostatistics at Emory University.
+This is Zihang Wang. I'm currently a fourth-year Ph.D. student in Biostatistics at Emory University.
 
 <!--
 **zwang2333/zwang2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
